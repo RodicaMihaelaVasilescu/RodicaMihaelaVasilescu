@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hello World!💻
 - Bachelor's degree (Department of Computers and Information Technology - English); 
 - Experience as a C#, C++, PL/SQL and Java Software Engineer.
 - You can contact me on: https://www.linkedin.com/in/rodica-mihaela, rodica.mihaela.vasilescu@gmail.com
