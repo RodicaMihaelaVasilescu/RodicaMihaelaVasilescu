@@ -1,6 +1,11 @@
 ### Hello World!💻
 - Bachelor's degree (Department of Computers and Information Technology - English); 
 - Experience as a C#, C++, PL/SQL and Java Software Engineer.
+
+                         Visual Studio, Visual Studio Code, Eclipse, RAD Studio, 
+                         .NET Framework, .NET Core
+                         WPF (Front-end), ASP.NET (Back-end), VSIX, Xamarin, Crystal Reports, MSSQL, PL/SQL, SQLite 
+- Currently learning: Javascript, HTML
 - You can contact me on:          
                          
                           💬 https://www.linkedin.com/in/rodica-mihaela
