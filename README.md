@@ -4,8 +4,8 @@
 
                          Visual Studio, Visual Studio Code, Eclipse, RAD Studio, 
                          .NET Framework, .NET Core
-                         WPF (Front-end), ASP.NET (Back-end), VSIX, Xamarin, Crystal Reports, MSSQL, PL/SQL, SQLite 
-- You can contact me on:    https://www.linkedin.com/in/rodica-mihaela, vasilescu.rodica@yahoo.com, rodica.mihaela.vasilescu@gmail.com
+                         WPF (Front-end), Web API (Back-end), VSIX, Xamarin, Crystal Reports, MSSQL, PL/SQL, SQLite 
+- You can contact me on:    https://www.linkedin.com/in/rodica-mihaela, rodica.mihaela.vasilescu@gmail.com
 
 <!--
 **RodicaMihaelaVasilescu/RodicaMihaelaVasilescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
