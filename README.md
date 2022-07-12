@@ -4,7 +4,8 @@
 
                          Visual Studio, Visual Studio Code, Eclipse, RAD Studio, 
                          .NET Framework, .NET Core
-                         WPF (Front-end), Web API (Back-end), VSIX, Xamarin, Crystal Reports, MSSQL, PL/SQL, SQLite 
+                         WPF (Front-end), Web API (Back-end), VSIX, Xamarin, 
+                         Crystal Reports, Oracle, MSSQL, SQLite, MySQL, Redshift 
 - You can contact me on:    https://www.linkedin.com/in/rodica-mihaela, rodica.mihaela.vasilescu@gmail.com
 
 <!--
