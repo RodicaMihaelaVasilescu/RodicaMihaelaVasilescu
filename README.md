@@ -1,12 +1,13 @@
 ### Hello World!💻
-- Bachelor's degree (Department of Computers and Information Technology - English); 
-- Experience as a C#, C++, PL/SQL and Java Software Engineer.
+- Founder and developer of [MusicSoft](https://play.google.com/store/apps/details?id=com.musicsoft), a mobile application available on Google Play
+- Bachelor's degree (Department of Computers and Information Technology - English);
+- Experienced Software Engineer with a strong background in C#, Java, PL/SQL, Python, and C++, as well as cloud technologies on AWS.
 
                          Visual Studio, Visual Studio Code, Eclipse, RAD Studio, 
                          .NET Framework, .NET Core
-                         WPF (Front-end), Web API (Back-end), VSIX, Xamarin, 
+                         WPF, Web API, VSIX, Xamarin, Flutter,
                          Crystal Reports, Oracle, MSSQL, SQLite, MySQL, Redshift 
-- You can contact me on:    https://www.linkedin.com/in/rodica-mihaela, rodica.mihaela.vasilescu@gmail.com
+- You can contact me on:    [https://www.linkedin.com/in/rodica-mihaela](https://www.linkedin.com/in/rodica-mihaela), rodica.mihaela.vasilescu@gmail.com
 
 <!--
 **RodicaMihaelaVasilescu/RodicaMihaelaVasilescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
