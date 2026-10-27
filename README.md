@@ -1,13 +1,13 @@
 ### Hello World!💻
-- Founder and developer of [MusicSoft](https://play.google.com/store/apps/details?id=com.musicsoft), a mobile application available on Google Play
+- Founder and developer of [MusicSoft](https://play.google.com/store/apps/details?id=com.musicsoft), a mobile application available on [Google Play](https://play.google.com/store/apps/details?id=com.musicsoft) and [AppStore](https://apps.apple.com/ro/app/musicsoft/id6800092423). Read more about it on www.rodicamihaela.com
 - Bachelor's degree (Department of Computers and Information Technology - English);
-- Experienced Software Engineer with a strong background in C#, Java, PL/SQL, Python, and C++, as well as cloud technologies on AWS.
+- Experienced Software Engineer a strong background in C#, Java, PL/SQL, Python, and C++, as well as cloud technologies on AWS.
 
                          Visual Studio, Visual Studio Code, Eclipse, RAD Studio, 
                          .NET Framework, .NET Core
                          WPF, Web API, VSIX, Xamarin, Flutter,
                          Crystal Reports, Oracle, MSSQL, SQLite, MySQL, Redshift 
-- You can contact me on:    [https://www.linkedin.com/in/rodica-mihaela](https://www.linkedin.com/in/rodica-mihaela), rodica.mihaela.vasilescu@gmail.com
+- You can contact me on:    [https://www.linkedin.com/in/rodica-mihaela](https://www.linkedin.com/in/rodica-mihaela), rodicamihaela.contact@gmail.com
 
 <!--
 **RodicaMihaelaVasilescu/RodicaMihaelaVasilescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
